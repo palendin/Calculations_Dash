@@ -1,0 +1,44 @@
+{
+    "stoichiometry": [
+        {
+            "name": "Yeast",
+            "C": 4,
+            "H": 7.44,
+            "O": 2.64,
+            "N": 0.68,
+            "P": 0
+        },
+        {
+            "name": "Ammomium Hydroxide",
+            "C": 0,
+            "H": 5,
+            "O": 1,
+            "N": 1,
+            "P": 0
+        },
+        {
+            "name": "Monoammonium Phosphate (MAP)",
+            "C": 0,
+            "H": 6,
+            "O": 4,
+            "N": 1,
+            "P": 1
+        },
+        {
+            "name": "Ammonium",
+            "C": 0,
+            "H": 4,
+            "O": 0,
+            "N": 1,
+            "P": 0
+        },
+        {
+            "name": "Riboflavin",
+            "C": 17,
+            "H": 20,
+            "O": 6,
+            "N": 4,
+            "P": 0
+        }
+    ]
+}

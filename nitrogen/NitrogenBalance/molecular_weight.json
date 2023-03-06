@@ -1,0 +1,40 @@
+{
+    "molecular weight": [
+        {
+            "name": "C",
+            "molecular weight g/mol": 12
+        },
+        {
+            "name": "H",
+            "molecular weight g/mol": 1
+        },
+        {
+            "name": "O",
+            "molecular weight g/mol": 16
+        },
+        {
+            "name": "N",
+            "molecular weight g/mol": 14
+        },
+        {
+            "name": "P",
+            "molecular weight g/mol": 31
+        },
+        {
+            "name": "Yeast",
+            "molecular weight g/mol": 107
+        },
+        {
+            "name": "Monoammonium Phosphate (MAP)",
+            "molecular weight g/mol": 115
+        },
+        {
+            "name": "Riboflavin",
+            "molecular weight g/mol": 376
+        },
+        {
+            "name": "Ammonium",
+            "molecular weight g/mol": 18
+        }
+    ]
+}

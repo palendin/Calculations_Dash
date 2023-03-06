@@ -1,0 +1,24 @@
+{
+    "nitrogen_sources": [
+        {
+            "name": "Ammonium Hydroxide",
+            "conc M": 14.8,
+            "conc g/L": 518.6
+        },
+        {
+            "name": "Diluted Ammonium Hydroxide",
+            "conc M": 2.96,
+            "conc g/L": 103.7
+        },
+        {
+            "name": "Monoammonium Phosphate in Media",
+            "conc M": 0.061,
+            "conc g/L": 7
+        },
+        {
+            "name": "Monoammonium Phosphate in PSA",
+            "conc M": 0.56,
+            "conc g/L": 64.8
+        }
+    ]
+}
